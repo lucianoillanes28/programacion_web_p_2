@@ -1,0 +1,52 @@
+/* Estilos base para el clima */
+.weather-container {
+    padding: 20px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.weather-container h1 {
+    margin-top: 0;
+}
+
+.weather-info {
+    margin-bottom: 20px;
+}
+
+/* Estilos de fondo para diferentes condiciones climáticas */
+.weather-container.sunny {
+    background-color: #ffeb3b; /* Fondo amarillo para condiciones soleadas */
+}
+
+.weather-container.rainy {
+    background-color: #607d8b; /* Fondo gris azulado para condiciones lluviosas */
+}
+
+.weather-container.partly-cloudy {
+    background-color: #b1d4e2; /* Puedes elegir un color que te parezca adecuado */
+}
+
+/* Estilos para el pronóstico */
+.forecast-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.forecast-day {
+    border: 1px solid #ddd;
+    margin: 10px;
+    padding: 10px;
+    width: 150px;
+    text-align: center;
+    background-color: #f9f9f9;
+}
+
+.forecast-day img {
+    width: 50px;
+    height: 50px;
+}
+
+.forecast-day p {
+    margin: 5px 0;
+}

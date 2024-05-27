@@ -1,0 +1,91 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: auto;
+    padding: 10px;
+    max-width: 6000px;
+}
+
+h1 {
+    
+    text-align: center;
+    
+}
+
+
+
+form {
+    width: 60%;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 50px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    background-color: #b7b9b9;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="date"],
+input[type="number"],
+textarea,
+select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 20px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #2600ffcb;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.Enviar {
+    padding: 10px 20px;
+    background-color: #0e853fcb;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #b3009b;
+}
+
+#carta {
+    
+    width: 50%;
+    height: 200px;
+    margin-top: 10px;
+    margin-left: 130px;
+}
+
+.image-container {
+    text-align: center;
+}
+
+/* Estilo para el botón "Inicio" */
+.btn-inicio {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #fff; /* Color del texto */
+    background-color: #34383d; /* Color de fondo */
+    border: none;
+    border-radius: 6px; /* Bordes redondeados */
+    text-align: center;
+    text-decoration: none; /* Sin subrayado */
+    transition: background-color 0.3s ease; /* Transición suave */
+}
+
