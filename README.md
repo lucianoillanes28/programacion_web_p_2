@@ -16,7 +16,7 @@ y arrendar bicicletas. La página utiliza Bootstrap para un diseño responsivo y
 Para utilizar este proyecto, sigue los siguientes pasos:
 
 1. Clona el repositorio:
-   git clone https://github.com/tu-usuario/master-bikes.git
+   [git clone https://github.com/tu-usuario/master-bikes.git](https://github.com/lucianoillanes28/programacion_web_p_2.git)
 
 2. Navega al directorio del proyecto:
 	cd master-bikes
@@ -37,20 +37,20 @@ Para utilizar este proyecto, sigue los siguientes pasos:
 	- Inicio de Sesion y Registro : seccion de acceso y formulario de registro de usuario. (Funcional)
 
 4. Estructura del Código
-	index.html: Contiene el código principal del sitio web.
-	style.css: Archivo de estilos CSS.
-	Imagenes/: Directorio que contiene todas las imágenes utilizadas en el sitio.
-	formualario.html : mustra el formulario de contacto
-	inicio_de_sesion.html : muestra la pagina para hacer el inicio de sesion del usuario
-	login.html : formulario de creasion de usuario
-	pass_accseo_registro.html : solicita contraseña dada por el admin para comenzar el proceso de creacion de nuevo usuario.
-	quienes_somos.html : mustra las fotos y nombres de los participantes.
-	selec_inicio_sesion.html : muestra las distintas opciones de inicio de sesion que tendran los colaboradores.
-	selec_registro.html : muestra las distintas opciones de registro que tendran los colaboradores.
-	style_formulario.css : es la hoja de estilos para el formulario de contacto.
-	valida.js : contiene los eventos para el formulario de contacto.
-	api_clima.html : es la pagina principal para la opcion de (EL TIEMPO HOY), la cual ademas tiene el enlace de conexion a la api del clima.
-	clima.js : contiene los eventos para sincronizar y enlazar la api del clima.
+	- index.html: Contiene el código principal del sitio web.
+	- style.css: Archivo de estilos CSS.
+	- Imagenes/: Directorio que contiene todas las imágenes utilizadas en el sitio.
+	- formualario.html : mustra el formulario de contacto
+	- inicio_de_sesion.html : muestra la pagina para hacer el inicio de sesion del usuario
+	- login.html : formulario de creasion de usuario
+	- pass_accseo_registro.html : solicita contraseña dada por el admin para comenzar el proceso de creacion de nuevo usuario.
+	- quienes_somos.html : mustra las fotos y nombres de los participantes.
+	- selec_inicio_sesion.html : muestra las distintas opciones de inicio de sesion que tendran los colaboradores.
+	- selec_registro.html : muestra las distintas opciones de registro que tendran los colaboradores.
+	- style_formulario.css : es la hoja de estilos para el formulario de contacto.
+	- valida.js : contiene los eventos para el formulario de contacto.
+	- api_clima.html : es la pagina principal para la opcion de (EL TIEMPO HOY), la cual ademas tiene el enlace de conexion a la api del clima.
+	- clima.js : contiene los eventos para sincronizar y enlazar la api del clima.
 	
 5. (Funcionales)
 - Inicio de sesion y registro
