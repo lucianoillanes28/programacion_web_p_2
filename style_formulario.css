@@ -65,10 +65,11 @@ button:hover {
 
 #carta {
     
-    width: 50%;
-    height: 200px;
-    margin-top: 10px;
-    margin-left: 130px;
+    width: 80%;
+    height: 400px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .image-container {
@@ -88,4 +89,6 @@ button:hover {
     text-decoration: none; /* Sin subrayado */
     transition: background-color 0.3s ease; /* Transición suave */
 }
+
+
 
